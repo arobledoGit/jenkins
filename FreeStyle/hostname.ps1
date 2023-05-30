@@ -1,2 +1,1 @@
-Write-Host "Hola"
-Write-Host hostname
+Write-Host "HolaEscribe algo en la consola"

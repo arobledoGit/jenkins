@@ -1,1 +1,1 @@
-Write-Host "HolaEscribe algo en la consola"
+Write-Host "Hola. Escribe algo en la consola"
